@@ -1,27 +1,12 @@
 # MapasApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+In this project I demonstrate how to use the Mapbox API, which allows us to work with maps from all over the world that are displayed with the Angular framework and the information is stored in the Local Host. This project includes sections where information is shown about where we are positioned.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# FullScreen
+![image](https://user-images.githubusercontent.com/85316618/209903299-d97fff45-0ae4-4f22-ba62-e2afc9432e4b.png)
+# Range
+![image](https://user-images.githubusercontent.com/85316618/209903310-c3319fbd-8c3f-4af4-b915-0e3236c1bc74.png)
+# Marker
+![image](https://user-images.githubusercontent.com/85316618/209903343-67483739-01a9-41f9-98dc-8ea460b6b2dc.png)
+# Properties
+![image](https://user-images.githubusercontent.com/85316618/209903387-b3e1a5c2-7390-462d-b23f-e286aeeab92e.png)
